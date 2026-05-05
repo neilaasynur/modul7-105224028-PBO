@@ -8,6 +8,6 @@ public class LampuPintar extends PerangkatPintar{
         System.out.println("Kecerahan lampu diatur ke level " + level + "%.");
     }
     void aturKecerahan (int level, String warna){
-        System.out.println("Kecerahan lampu diatur ke level" + level + "% dengan warna cahaya " + warna + ".");
+        System.out.println("Kecerahan lampu diatur ke level " + level + "% dengan warna cahaya " + warna + ".");
     }
 }
